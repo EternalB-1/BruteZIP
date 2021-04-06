@@ -1,3 +1,4 @@
+#This repository was copied: https://github.com/Arszilla/BruteZIP
 <p align="left">
     <a href="https://github.com/Arszilla/BruteZIP/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/Arszilla/BruteZIP.svg?color=green&logo=github">
